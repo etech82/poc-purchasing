@@ -42,6 +42,9 @@
     "creationTimestamp": 1619092899563,
     "jwtSecretKey": "NTAxOTUyOWVjNWZkMjM1M2JiMmY1NzBkZGQ0MWY2MTk3Yjk4MzEyMDFjOTk2YzVmNTBhNTJhYmQyOTIyNjdiMDI3NTc5N2U1YmM5NTMzZmFlZDIxMGU1MzRiMThiZjg0ODU3Yjc1OWQ3YTFiY2FjYjdhZDhkYTYwMWRiMTIwMWE=",
     "entities": ["Address", "Location", "LocationOrder", "OrderItem"],
-    "lastLiquibaseTimestamp": 1619093139000
+    "lastLiquibaseTimestamp": 1619093139000,
+    "appFolder": "purchasing",
+    "targetImageName": "rxi/purchasing",
+    "dbPeerCount": 1
   }
 }
